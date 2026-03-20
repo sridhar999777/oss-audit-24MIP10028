@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 3: Disk and Permission Auditor
-# Author: [Your Name]
+# Author: Sridhar Krishnan
 
 # Array of target directories, including VLC's config path
 DIRS=("/etc" "/var/log" "/home" "/usr/bin" "/tmp" "/etc/vlc")
