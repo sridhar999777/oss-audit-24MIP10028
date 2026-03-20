@@ -1,7 +1,7 @@
 #!/bin/bash
 # Script 4: Log File Analyzer
 # Usage: ./log_analyzer.sh /var/log/syslog "error"
-# Author: [Your Name]
+# Author: Sridhar Krishnan
 
 LOGFILE=$1
 KEYWORD=${2:-"error"} # Default keyword is 'error'
