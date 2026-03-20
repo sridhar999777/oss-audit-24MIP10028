@@ -63,3 +63,21 @@ Execute each script using the ./ prefix from within the project directory.
 ```bash
 ./1_system_identity.sh
 ```
+* **Run Script 2:**
+```bash
+./2_package_inspector.sh
+```
+* **Run Script 3:**
+```bash
+./3_disk_auditor.sh
+```
+* **Run Script 4:**
+This script requires two arguments: the path to a log file and a search keyword. Since standard syslog is often empty on WSL, we use the package manager log to search for "install" events:
+```bash
+./4_log_analyzer.sh /var/log/dpkg.log "install"
+```
+* **Run Script 5:**
+This script is interactive. Run it, answer the three prompts, and it will generate your text file.
+```bash
+./5_manifesto_generator.sh
+```
