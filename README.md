@@ -60,6 +60,6 @@ chmod +x *.sh
 **Step 3: Run the scripts individually**
 Execute each script using the ./ prefix from within the project directory.
 * **Run Script 1:**
-* ```bash
-* ./1_system_identity.sh
-* ```
+```bash
+./1_system_identity.sh
+```
