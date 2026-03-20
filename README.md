@@ -1,6 +1,6 @@
 # oss-audit-24MIP10028
 
-**Student Name:** Sridhar Krishnan 
+**Student Name:** Sridhar Krishnan
 **Registration Number:** 24MIP10028  
 **Target Open-Source Software:** VLC Media Player
 
