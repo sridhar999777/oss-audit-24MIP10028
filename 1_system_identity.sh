@@ -1,10 +1,10 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: [Your Name]
+# Author: SridharKrishnan
 # Course: Open Source Software
 
 # --- Variables
-STUDENT_NAME="[Your Name]"
+STUDENT_NAME="Sridhar Krishnan"
 SOFTWARE_CHOICE="VLC Media Player"
 
 # --- System info
