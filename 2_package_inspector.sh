@@ -1,8 +1,8 @@
 #!/bin/bash
 # Script 2: FOSS Package Inspector
-# Author: [Your Name]
+# Author: Sridhar Krishnan
 
-PACKAGE="vlc" # Change this to your chosen software (e.g., httpd, firefox, mysql-server)
+PACKAGE="vlc"
 
 echo "Inspecting package: $PACKAGE..."
 
