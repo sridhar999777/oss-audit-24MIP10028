@@ -49,3 +49,17 @@ Download the scripts to your local Linux machine:
 git clone https://github.com/sridhar999777/oss-audit-24MIP10028.git
 cd oss-audit-24MIP10028
 ```
+
+**Step 2: Grant execution permissions**
+Before running the scripts, you must make them executable:
+
+```bash
+chmod +x *.sh
+```
+
+**Step 3: Run the scripts individually**
+Execute each script using the ./ prefix from within the project directory.
+* **Run Script 1:**
+* ```bash
+* ./1_system_identity.sh
+* ```
